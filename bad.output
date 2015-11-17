@@ -1,0 +1,6 @@
+"bad.cl", line 16: syntax error at or near OBJECTID = iherits
+"bad.cl", line 21: syntax error at or near OBJECTID = anything
+"bad.cl", line 34: syntax error at or near ASSIGN
+"bad.cl", line 34: syntax error at or near ASSIGN
+Compilation halted due to lex and parse errors
+
